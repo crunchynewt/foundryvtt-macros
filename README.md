@@ -16,6 +16,8 @@ You can now use the Macro in Foundry VTT.
 
 ### Update prices
 
+Macro file - [macro-update-prices.js](macro-update-prices.js)
+
 Some of the DND5e magical item prices are either missing or have strange pricing values. In particular this applies to ammo such as arrows.
 
 This macro will suggest updates for magical item prices. It will use a 20% randomisation of price around the following rules:
