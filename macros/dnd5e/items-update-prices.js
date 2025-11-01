@@ -1,3 +1,5 @@
+// Updates the Prices of items to be a little more consistent.
+
 // Price random factor
 const priceRandomFactor = 0.2;
 
